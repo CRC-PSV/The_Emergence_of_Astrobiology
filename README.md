@@ -27,8 +27,8 @@ Execute to replicate research : LDA.py
 Execute to replicate research : Topic_interpretation_and_correlation.py
 ### 4. Diachronic modeling
 Execute to replicate research : Diachronic_modeling.py
-### 5. Author modeling
-Execute to replicate research : Author_modeling.py
+### 5. Journal profiling
+Execute to replicate research : Journal_profiling.py
 *Note that for legal issues, the complete full-text of journal articles could not be included with the dataset (but can be retrieved by asking the respective publishers).
 
 ## Citation
