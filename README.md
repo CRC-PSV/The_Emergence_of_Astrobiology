@@ -2,7 +2,7 @@
 ## Abstract
 Astrobiology is often defined as the study of the origin, evolution, distribution, and future of life on Earth and in the universe. As a discipline that emerged in the last decades of the 20th century, its contours have not always been straightforward, resulting from the interweaving of several lines of research as early as the 1960s. By applying computational topic-modeling approaches to the complete full-text corpus of three flagship journals in the field, <em>Origins of Life and Evolution of Biospheres</em> (1968-2020), <em>Astrobiology</em> (2001-2020), and the <em>International Journal of Astrobiology</em> (2002-2020), we identify specific topics that characterize the early blossoming of the discipline. We also map their evolution through time, as emphasis changed between different readings of astrobiology, from an exobiology and origins-of-life perspective to a more space- and planetarysciences view of the discipline.
 
-##Requirements
+## Requirements
 This code was tested on Python 3.7.3. Other requirements are as follows (see requirements.txt):
 
 lda
