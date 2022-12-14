@@ -30,7 +30,7 @@ Execute to replicate research : Journal_profiling.py
 *Note that for legal issues, the complete full-text of journal articles could not be included with the dataset (but can be retrieved by asking the respective publishers).
 
 ## Citation
-...
+Malaterre, Christophe and Francis Lareau. 2023. "The Emergence of Astrobiology: A Topic-Modeling Perspective". <em>Astrobiology</em>.
 
 ## Authors
 Christophe Malaterre
