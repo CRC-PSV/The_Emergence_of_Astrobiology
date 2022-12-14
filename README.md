@@ -11,7 +11,7 @@ pandas
 sklearn
 tmtoolkit
 treetaggerwrapper
-##Quick Start
+## Quick Start
 Install libraries: pip install -r requirements.txt
 Install TreeTagger
 ### 1. Corpus assembly and cleaning*
