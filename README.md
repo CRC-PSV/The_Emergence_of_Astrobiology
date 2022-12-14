@@ -4,13 +4,12 @@ Astrobiology is often defined as the study of the origin, evolution, distributio
 
 ## Requirements
 This code was tested on Python 3.7.3. Other requirements are as follows (see requirements.txt):
-
-lda
-numpy
-pandas
-sklearn
-tmtoolkit
-treetaggerwrapper
+- lda
+- numpy
+- pandas
+- sklearn
+- tmtoolkit
+- treetaggerwrapper
 ## Quick Start
 Install libraries: pip install -r requirements.txt
 Install TreeTagger
