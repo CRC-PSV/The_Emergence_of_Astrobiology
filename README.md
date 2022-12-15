@@ -18,10 +18,7 @@ Execute to replicate research : Corpus_assembly_and_cleaning.py
 ### 2. Preprocessing*
 Execute to replicate research : Preprocessing.py
 ### 3. Topic modeling
-#### 3.1 Coherence*
-Execute to replicate research : Coherence.py
-#### 3.2 LDA
-Execute to replicate research : LDA.py
+Execute to replicate research : Topic_modeling.py
 ### 4. Diachronic modeling
 Execute to replicate research : Diachronic_modeling.py
 ### 5. Journal profiling
