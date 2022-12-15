@@ -28,6 +28,8 @@ Execute to replicate research : Topic_modeling.py
 Execute to replicate research : Diachronic_modeling.py
 ### 5. Journal profiling
 Execute to replicate research : Journal_profiling.py
+### Supplementary Information
+These files include the S1 Table and all the data for the graphs as found in the publicaiton
 
 *Note that for legal issues, the complete full-text of journal articles could not be included with the dataset (but can be retrieved by asking the respective publishers).
 
