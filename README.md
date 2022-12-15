@@ -17,7 +17,7 @@ Install TreeTagger
 Execute to replicate research : Corpus_assembly_and_cleaning.py
 ### 2. Preprocessing*
 Execute to replicate research : Preprocessing.py
-### 3. Topic modeling
+### 3. Topic modeling*
 Execute to replicate research : Topic_modeling.py
 ### 4. Diachronic modeling
 Execute to replicate research : Diachronic_modeling.py
