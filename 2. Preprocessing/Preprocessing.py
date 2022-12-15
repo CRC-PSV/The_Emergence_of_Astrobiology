@@ -28,7 +28,7 @@ import treetaggerwrapper #  TreeTagger must be install and path specified
 main_path = os.path.join("your_main_path")
 os.chdir(main_path)
 
-treetagger_path = "C:\TreeTagger"
+treetagger_path = "your_TreeTagger_path"
 
 #==============================================================================
 # ################################################################# Import data
