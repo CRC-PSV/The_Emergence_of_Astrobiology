@@ -16,6 +16,7 @@ This code was tested on Python 3.7.3. Other requirements are as follows (see req
 
 ## Quick Start
 Install libraries: pip install -r requirements.txt
+
 Install TreeTagger
 ### 1. Corpus assembly and cleaning*
 Execute to replicate research : Corpus_assembly_and_cleaning.py
